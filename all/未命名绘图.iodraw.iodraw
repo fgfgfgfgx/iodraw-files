@@ -52,6 +52,9 @@
         <mxCell id="qLYBZfKnjfg-X3rskJuE-60" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;token校验成功&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="3">
           <mxGeometry x="123.5" y="222" width="172.5" height="51" as="geometry" />
         </mxCell>
+        <mxCell id="qLYBZfKnjfg-X3rskJuE-62" value="加载设备" style="fontFamily=宋体;fontSize=18;" vertex="1" parent="3">
+          <mxGeometry x="114.25" y="299" width="187" height="42" as="geometry" />
+        </mxCell>
         <mxCell id="4" value="Java后端" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
           <mxGeometry x="860" y="128" width="280" height="714" as="geometry" />
         </mxCell>
@@ -68,9 +71,6 @@
         </mxCell>
         <mxCell id="qLYBZfKnjfg-X3rskJuE-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qLYBZfKnjfg-X3rskJuE-48" target="qLYBZfKnjfg-X3rskJuE-55">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="qLYBZfKnjfg-X3rskJuE-62" value="输入账号密码确认登录" style="fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="221" y="292" width="187" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
