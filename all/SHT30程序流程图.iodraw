@@ -245,13 +245,16 @@
           <mxGeometry x="282" y="218" width="264" height="85" as="geometry" />
         </mxCell>
         <mxCell id="bbBU8sUHyLAYXWdv6_eu-2" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;置预处理挂起标志为1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="139" y="344" width="237.5" height="60" as="geometry" />
+          <mxGeometry x="141" y="377" width="237.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bbBU8sUHyLAYXWdv6_eu-3" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;清除预处理挂起标志&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="451" y="344" width="237.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bbBU8sUHyLAYXWdv6_eu-8" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;是&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="312" y="297" width="36" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="bbBU8sUHyLAYXWdv6_eu-10" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;否&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="476" y="297" width="36" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
