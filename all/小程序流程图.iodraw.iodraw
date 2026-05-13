@@ -262,10 +262,10 @@
           <mxGeometry x="-158" y="-42" width="181" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TBjISB0mY37Tc_2zMZfv-5" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;初始化并配置GPIO输入模式&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-158" y="56" width="181" height="60" as="geometry" />
+          <mxGeometry x="188" y="123" width="181" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TBjISB0mY37Tc_2zMZfv-6" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;初始化并配置GPIO输入模式&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-158" y="149" width="181" height="60" as="geometry" />
+          <mxGeometry x="284" y="315" width="181" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
