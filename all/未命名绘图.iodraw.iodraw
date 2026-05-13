@@ -172,6 +172,9 @@
         <mxCell id="qLYBZfKnjfg-X3rskJuE-164" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px; text-wrap: nowrap;&quot;&gt;更新任务状态为进行中&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4">
           <mxGeometry x="29.430000000000064" y="918" width="221.13" height="41" as="geometry" />
         </mxCell>
+        <mxCell id="qLYBZfKnjfg-X3rskJuE-165" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px; text-wrap: nowrap;&quot;&gt;存储照片URL&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4">
+          <mxGeometry x="29.440000000000055" y="1055" width="221.13" height="41" as="geometry" />
+        </mxCell>
         <mxCell id="qLYBZfKnjfg-X3rskJuE-42" value="阿里云IoT" style="swimlane;whiteSpace=wrap;fontFamily=宋体;fontStyle=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1140" y="125" width="376" height="1186" as="geometry" />
         </mxCell>
@@ -203,9 +206,6 @@
         </mxCell>
         <mxCell id="qLYBZfKnjfg-X3rskJuE-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qLYBZfKnjfg-X3rskJuE-79" target="qLYBZfKnjfg-X3rskJuE-127">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="qLYBZfKnjfg-X3rskJuE-165" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px; text-wrap: nowrap;&quot;&gt;wx.request调用签到接口&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="561.4300000000001" y="1062" width="221.13" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
