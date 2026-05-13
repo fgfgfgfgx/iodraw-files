@@ -158,7 +158,7 @@
           <mxGeometry x="46.75" y="166" width="186.5" height="41" as="geometry" />
         </mxCell>
         <mxCell id="qLYBZfKnjfg-X3rskJuE-119" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px; text-wrap: nowrap;&quot;&gt;更新环境数据&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4">
-          <mxGeometry x="29.430000000000064" y="917" width="221.13" height="41" as="geometry" />
+          <mxGeometry x="27.000000000000064" y="775" width="221.13" height="41" as="geometry" />
         </mxCell>
         <mxCell id="qLYBZfKnjfg-X3rskJuE-42" value="阿里云IoT" style="swimlane;whiteSpace=wrap;fontFamily=宋体;fontStyle=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1140" y="125" width="376" height="1186" as="geometry" />
