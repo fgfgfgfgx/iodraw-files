@@ -264,6 +264,9 @@
         <mxCell id="TBjISB0mY37Tc_2zMZfv-3" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;MQTT接收下行JSON&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-164.5" y="-135" width="193" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="TBjISB0mY37Tc_2zMZfv-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TBjISB0mY37Tc_2zMZfv-4" target="TBjISB0mY37Tc_2zMZfv-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TBjISB0mY37Tc_2zMZfv-4" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;解析params或items字段&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-165" y="-44" width="194" height="60" as="geometry" />
         </mxCell>
@@ -272,6 +275,9 @@
         </mxCell>
         <mxCell id="TBjISB0mY37Tc_2zMZfv-6" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;调用后端接口实现环境数据入库&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-164.5" y="231" width="196.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TBjISB0mY37Tc_2zMZfv-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TBjISB0mY37Tc_2zMZfv-7" target="TBjISB0mY37Tc_2zMZfv-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TBjISB0mY37Tc_2zMZfv-7" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;deviceMap是否包含该deviceCode&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-229.75" y="46" width="323.5" height="64" as="geometry" />
