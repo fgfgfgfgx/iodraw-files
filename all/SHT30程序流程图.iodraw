@@ -419,15 +419,18 @@
     </mxGraphModel>
   </diagram>
   <diagram id="cyw0VBdb-dm-sKyBacVd" name="第 8 页">
-    <mxGraphModel dx="1235" dy="731" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="724" dy="428" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="1rN1Qv9JFmFTJ-XMWNyV-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="1rN1Qv9JFmFTJ-XMWNyV-1" target="1rN1Qv9JFmFTJ-XMWNyV-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1rN1Qv9JFmFTJ-XMWNyV-1" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;开始&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="352" y="2" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1rN1Qv9JFmFTJ-XMWNyV-2" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;结束&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="349" y="662" width="100" height="60" as="geometry" />
+          <mxGeometry x="352" y="637" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1rN1Qv9JFmFTJ-XMWNyV-3" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;关闭残留TCP并丢弃串口接收缓冲&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="312" y="89" width="181" height="60" as="geometry" />
