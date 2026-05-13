@@ -31,9 +31,6 @@
         <mxCell id="3" value="微信小程序" style="swimlane;whiteSpace=wrap;swimlaneLine=1;" parent="1" vertex="1">
           <mxGeometry x="444.5" y="128" width="415.5" height="714" as="geometry" />
         </mxCell>
-        <mxCell id="qLYBZfKnjfg-X3rskJuE-53" value="存储token" style="fontFamily=宋体;fontSize=18;" vertex="1" parent="3">
-          <mxGeometry x="154.75" y="88" width="110" height="36" as="geometry" />
-        </mxCell>
         <mxCell id="qLYBZfKnjfg-X3rskJuE-55" value="GET用户信息获取role" style="fontFamily=宋体;fontSize=18;" vertex="1" parent="3">
           <mxGeometry x="114.25" y="156" width="187" height="42" as="geometry" />
         </mxCell>
@@ -46,8 +43,8 @@
         <mxCell id="qLYBZfKnjfg-X3rskJuE-69" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px; text-wrap: nowrap;&quot;&gt;wx.request登录&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3">
           <mxGeometry x="114.75" y="35" width="186.5" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="qLYBZfKnjfg-X3rskJuE-70" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px; text-wrap: nowrap;&quot;&gt;wx.request登录&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3">
-          <mxGeometry x="102.5" y="438" width="186.5" height="41" as="geometry" />
+        <mxCell id="qLYBZfKnjfg-X3rskJuE-70" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px; text-wrap: nowrap;&quot;&gt;存储token&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3">
+          <mxGeometry x="114.75" y="95" width="186.5" height="41" as="geometry" />
         </mxCell>
         <mxCell id="4" value="Java后端" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
           <mxGeometry x="860" y="128" width="280" height="714" as="geometry" />
