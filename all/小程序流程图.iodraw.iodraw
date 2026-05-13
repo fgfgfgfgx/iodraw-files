@@ -265,10 +265,10 @@
           <mxGeometry x="-164.5" y="138" width="195" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TBjISB0mY37Tc_2zMZfv-6" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;初始化并配置GPIO输入模式&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="284" y="315" width="181" height="60" as="geometry" />
+          <mxGeometry x="-164.5" y="231" width="181" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TBjISB0mY37Tc_2zMZfv-7" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;deviceMap是否包含该deviceCode&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-229.75" y="48" width="323.5" height="64" as="geometry" />
+          <mxGeometry x="-229.75" y="46" width="323.5" height="64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
