@@ -485,7 +485,7 @@
         <mxCell id="WqQkrebkt2pR-nu9kJEe-3" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;按物模型字段名与类型取值&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="120" width="181" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WqQkrebkt2pR-nu9kJEe-4" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;拼接获取的数值为JSON&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WqQkrebkt2pR-nu9kJEe-4" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;将监测到的数值拼接为JSON&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="228" width="181" height="60" as="geometry" />
         </mxCell>
       </root>
