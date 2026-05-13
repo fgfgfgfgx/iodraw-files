@@ -20,7 +20,7 @@
           <mxGeometry x="80" y="87" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qLYBZfKnjfg-X3rskJuE-64" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px; text-wrap: nowrap;&quot;&gt;输入账号密码确认登录&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="2">
-          <mxGeometry x="46.5" y="155" width="186.5" height="41" as="geometry" />
+          <mxGeometry x="46.74" y="161" width="186.5" height="41" as="geometry" />
         </mxCell>
         <mxCell id="qLYBZfKnjfg-X3rskJuE-67" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px; text-wrap: nowrap;&quot;&gt;浏览看板或任务&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="2">
           <mxGeometry x="46.75" y="552" width="186.5" height="41" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry x="114.75" y="29" width="186.5" height="41" as="geometry" />
         </mxCell>
         <mxCell id="qLYBZfKnjfg-X3rskJuE-70" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px; text-wrap: nowrap;&quot;&gt;存储token&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3">
-          <mxGeometry x="114.75" y="95" width="186.5" height="41" as="geometry" />
+          <mxGeometry x="114.25" y="93" width="186.5" height="41" as="geometry" />
         </mxCell>
         <mxCell id="qLYBZfKnjfg-X3rskJuE-71" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px; text-wrap: nowrap;&quot;&gt;GET用户信息获取role&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3">
           <mxGeometry x="114.25" y="156" width="186.5" height="41" as="geometry" />
