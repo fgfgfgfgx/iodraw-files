@@ -224,7 +224,7 @@
           <mxGeometry x="364" y="33" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dSI5-w0soQNSidYspIgn-2" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;结束&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="364" y="453" width="100" height="60" as="geometry" />
+          <mxGeometry x="364" y="399" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dSI5-w0soQNSidYspIgn-3" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;按优先级处理确认窗口与锁存任务等前置分支&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="295" y="127" width="237.5" height="60" as="geometry" />
