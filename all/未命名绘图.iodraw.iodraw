@@ -31,6 +31,9 @@
         <mxCell id="3" value="微信小程序" style="swimlane;whiteSpace=wrap;swimlaneLine=1;" parent="1" vertex="1">
           <mxGeometry x="444.5" y="128" width="415.5" height="874" as="geometry" />
         </mxCell>
+        <mxCell id="qLYBZfKnjfg-X3rskJuE-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="3" source="qLYBZfKnjfg-X3rskJuE-60" target="qLYBZfKnjfg-X3rskJuE-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qLYBZfKnjfg-X3rskJuE-60" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;token校验成功&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="3">
           <mxGeometry x="121.25" y="230" width="172.5" height="51" as="geometry" />
         </mxCell>
@@ -39,6 +42,9 @@
         </mxCell>
         <mxCell id="qLYBZfKnjfg-X3rskJuE-70" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px; text-wrap: nowrap;&quot;&gt;存储token&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3">
           <mxGeometry x="114.25" y="101" width="186.5" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="qLYBZfKnjfg-X3rskJuE-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="3" source="qLYBZfKnjfg-X3rskJuE-71" target="qLYBZfKnjfg-X3rskJuE-60">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qLYBZfKnjfg-X3rskJuE-71" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px; text-wrap: nowrap;&quot;&gt;GET用户信息获取role&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3">
           <mxGeometry x="114.25" y="166" width="186.5" height="41" as="geometry" />
