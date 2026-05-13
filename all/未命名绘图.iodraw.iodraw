@@ -72,6 +72,9 @@
         <mxCell id="qLYBZfKnjfg-X3rskJuE-47" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" edge="1" parent="qLYBZfKnjfg-X3rskJuE-42" source="qLYBZfKnjfg-X3rskJuE-43" target="qLYBZfKnjfg-X3rskJuE-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="qLYBZfKnjfg-X3rskJuE-53" value="打开小程序" style="fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="259.5" y="217" width="110" height="36" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
