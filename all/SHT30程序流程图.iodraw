@@ -182,7 +182,7 @@
         <mxCell id="eUl56vHZT-oSvssICxti-10" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;是&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="180" y="684" width="36" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="eUl56vHZT-oSvssICxti-11" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;读取对应静态历史状态last&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eUl56vHZT-oSvssICxti-11" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;将last更新为now&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="311.5" y="849" width="181" height="60" as="geometry" />
         </mxCell>
       </root>
