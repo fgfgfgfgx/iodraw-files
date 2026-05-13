@@ -468,6 +468,9 @@
         <mxCell id="9Pv_rInyyp-y3tdN7b8t-5" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;setData刷新设备在线、离线、故障数&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-128" y="135" width="181" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="9Pv_rInyyp-y3tdN7b8t-6" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;wxml卡片展示概览、告警与任务信息&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-128" y="222" width="181" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
