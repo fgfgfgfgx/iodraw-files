@@ -26,7 +26,7 @@
           <mxGeometry x="46.75" y="777" width="186.5" height="41" as="geometry" />
         </mxCell>
         <mxCell id="qLYBZfKnjfg-X3rskJuE-68" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px; text-wrap: nowrap;&quot;&gt;保洁员扫码签到上传签退&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="2">
-          <mxGeometry x="37.38000000000001" y="916" width="205.25" height="41" as="geometry" />
+          <mxGeometry x="37.38000000000001" y="851" width="205.25" height="41" as="geometry" />
         </mxCell>
         <mxCell id="qLYBZfKnjfg-X3rskJuE-111" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: 宋体; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;用户&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="2">
           <mxGeometry x="119.97999999999999" y="-6" width="40.01" height="44" as="geometry" />
