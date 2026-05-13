@@ -382,8 +382,11 @@
         <mxCell id="J-TCosu-G3LVGOZ-184H-8" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;使能GPIO时钟&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="318" y="198" width="211" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="J-TCosu-G3LVGOZ-184H-9" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;使能GPIO时钟&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="328" y="208" width="211" height="60" as="geometry" />
+        <mxCell id="J-TCosu-G3LVGOZ-184H-9" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;关闭抽风洒水和指示灯，防止复位后误吸合&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="318" y="293" width="211" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J-TCosu-G3LVGOZ-184H-10" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;使能GPIO时钟&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="317.5" y="386" width="211" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
