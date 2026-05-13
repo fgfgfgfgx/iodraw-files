@@ -158,6 +158,9 @@
         <mxCell id="eUl56vHZT-oSvssICxti-2" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;得到当前占用状态now&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="311.5" y="412" width="181" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="eUl56vHZT-oSvssICxti-3" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;读取对应静态历史状态last&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="311.5" y="516" width="181" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
