@@ -115,9 +115,6 @@
             <mxPoint x="91.5" y="730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qLYBZfKnjfg-X3rskJuE-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="3" source="qLYBZfKnjfg-X3rskJuE-109" target="qLYBZfKnjfg-X3rskJuE-110">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="qLYBZfKnjfg-X3rskJuE-109" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px; text-wrap: nowrap;&quot;&gt;定时拉取wx.request&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3">
           <mxGeometry x="103.38" y="777" width="208.25" height="41" as="geometry" />
         </mxCell>
