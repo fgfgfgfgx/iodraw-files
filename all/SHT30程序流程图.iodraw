@@ -419,7 +419,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="cyw0VBdb-dm-sKyBacVd" name="第 8 页">
-    <mxGraphModel dx="1050" dy="621" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="731" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -427,7 +427,7 @@
           <mxGeometry x="352" y="2" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1rN1Qv9JFmFTJ-XMWNyV-2" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;结束&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="352.5" y="605" width="100" height="60" as="geometry" />
+          <mxGeometry x="349" y="662" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1rN1Qv9JFmFTJ-XMWNyV-3" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;关闭残留TCP并丢弃串口接收缓冲&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="312" y="97" width="181" height="60" as="geometry" />
@@ -443,6 +443,9 @@
         </mxCell>
         <mxCell id="1rN1Qv9JFmFTJ-XMWNyV-8" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;组装MQTT_CONNECT原始载荷&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="311.5" y="482" width="181" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1rN1Qv9JFmFTJ-XMWNyV-9" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;AT建立TCP连接并发送CONNECT等待连接成功&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="312" y="572" width="181" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
