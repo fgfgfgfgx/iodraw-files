@@ -439,7 +439,10 @@
           <mxGeometry x="311.5" y="293" width="181" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1rN1Qv9JFmFTJ-XMWNyV-7" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;利用HMAC_SHA256算法进行密钥转换&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="312" y="393" width="181" height="60" as="geometry" />
+          <mxGeometry x="312" y="386" width="181" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1rN1Qv9JFmFTJ-XMWNyV-8" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;初始化并配置GPIO输入模式&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="343" width="181" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
