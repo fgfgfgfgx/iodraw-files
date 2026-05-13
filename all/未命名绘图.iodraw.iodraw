@@ -67,6 +67,9 @@
         <mxCell id="4" value="Java后端" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
           <mxGeometry x="860" y="128" width="280" height="874" as="geometry" />
         </mxCell>
+        <mxCell id="qLYBZfKnjfg-X3rskJuE-80" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px; text-wrap: nowrap;&quot;&gt;校验账号密码&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4">
+          <mxGeometry x="46.75" y="37" width="186.5" height="41" as="geometry" />
+        </mxCell>
         <mxCell id="qLYBZfKnjfg-X3rskJuE-42" value="阿里云IoT" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
           <mxGeometry x="1140" y="128" width="280" height="873" as="geometry" />
         </mxCell>
