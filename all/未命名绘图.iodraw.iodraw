@@ -32,6 +32,9 @@
         <mxCell id="qLYBZfKnjfg-X3rskJuE-63" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px; text-wrap: nowrap;&quot;&gt;打开小程序&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="2">
           <mxGeometry x="80" y="77" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="qLYBZfKnjfg-X3rskJuE-64" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px; text-wrap: nowrap;&quot;&gt;输入账号密码确认登录&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="2">
+          <mxGeometry x="18" y="235" width="186.5" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="3" value="微信小程序" style="swimlane;whiteSpace=wrap;swimlaneLine=1;" parent="1" vertex="1">
           <mxGeometry x="444.5" y="128" width="415.5" height="714" as="geometry" />
         </mxCell>
@@ -75,9 +78,6 @@
         </mxCell>
         <mxCell id="qLYBZfKnjfg-X3rskJuE-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qLYBZfKnjfg-X3rskJuE-48" target="qLYBZfKnjfg-X3rskJuE-55">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="qLYBZfKnjfg-X3rskJuE-64" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px; text-wrap: nowrap;&quot;&gt;打开小程序&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="254.5" y="215" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
