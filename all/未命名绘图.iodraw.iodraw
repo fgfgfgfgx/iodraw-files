@@ -13,9 +13,6 @@
         <mxCell id="5" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=#0a0a0a;" parent="2" vertex="1">
           <mxGeometry x="125" y="29" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qLYBZfKnjfg-X3rskJuE-50" value="浏览看板或任务" style="fontFamily=宋体;fontSize=18;" vertex="1" parent="2">
-          <mxGeometry x="46.5" y="499" width="187" height="28" as="geometry" />
-        </mxCell>
         <mxCell id="qLYBZfKnjfg-X3rskJuE-51" value="保洁员扫码签到上传签退" style="fontFamily=宋体;fontSize=18;" vertex="1" parent="2">
           <mxGeometry x="38.75" y="571" width="202.5" height="54" as="geometry" />
         </mxCell>
@@ -27,6 +24,9 @@
         </mxCell>
         <mxCell id="qLYBZfKnjfg-X3rskJuE-64" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px; text-wrap: nowrap;&quot;&gt;输入账号密码确认登录&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="2">
           <mxGeometry x="46.5" y="155" width="186.5" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="qLYBZfKnjfg-X3rskJuE-67" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px; text-wrap: nowrap;&quot;&gt;浏览看板或任务&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="2">
+          <mxGeometry x="46.5" y="220" width="186.5" height="41" as="geometry" />
         </mxCell>
         <mxCell id="3" value="微信小程序" style="swimlane;whiteSpace=wrap;swimlaneLine=1;" parent="1" vertex="1">
           <mxGeometry x="444.5" y="128" width="415.5" height="714" as="geometry" />
@@ -74,8 +74,8 @@
             <mxPoint x="398" y="303" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qLYBZfKnjfg-X3rskJuE-67" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px; text-wrap: nowrap;&quot;&gt;输入账号密码确认登录&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="221" y="293" width="186.5" height="41" as="geometry" />
+        <mxCell id="qLYBZfKnjfg-X3rskJuE-68" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px; text-wrap: nowrap;&quot;&gt;浏览看板或任务&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="221" y="358" width="186.5" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
