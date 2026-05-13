@@ -78,7 +78,7 @@
         <mxCell id="Vwvum63hI-Ebx_8bWuYv-2" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;结束&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="352" y="711" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FIl52IeEM-LyyXsvo34M-1" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;ADC初始化&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FIl52IeEM-LyyXsvo34M-1" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;ADC初始化并配置模拟输入&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="311.5" y="99" width="181" height="60" as="geometry" />
         </mxCell>
       </root>
