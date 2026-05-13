@@ -31,11 +31,10 @@
         <mxCell id="3" value="微信小程序" style="swimlane;whiteSpace=wrap;swimlaneLine=1;" parent="1" vertex="1">
           <mxGeometry x="444.5" y="128" width="415.5" height="714" as="geometry" />
         </mxCell>
-        <mxCell id="qLYBZfKnjfg-X3rskJuE-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="3" source="qLYBZfKnjfg-X3rskJuE-52" target="qLYBZfKnjfg-X3rskJuE-53">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="qLYBZfKnjfg-X3rskJuE-52" value="wx.request登录" style="fontFamily=宋体;fontSize=18;" vertex="1" parent="3">
-          <mxGeometry x="140.5" y="40" width="138.5" height="39" as="geometry" />
+        <mxCell id="qLYBZfKnjfg-X3rskJuE-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="3" target="qLYBZfKnjfg-X3rskJuE-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="209.75" y="79" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="qLYBZfKnjfg-X3rskJuE-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="3" source="qLYBZfKnjfg-X3rskJuE-53" target="qLYBZfKnjfg-X3rskJuE-55">
           <mxGeometry relative="1" as="geometry" />
@@ -54,6 +53,9 @@
         </mxCell>
         <mxCell id="qLYBZfKnjfg-X3rskJuE-62" value="加载设备数量" style="fontFamily=宋体;fontSize=18;" vertex="1" parent="3">
           <mxGeometry x="114.25" y="299" width="187" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="qLYBZfKnjfg-X3rskJuE-69" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px; text-wrap: nowrap;&quot;&gt;wx.request登录&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3">
+          <mxGeometry x="105.5" y="408" width="186.5" height="41" as="geometry" />
         </mxCell>
         <mxCell id="4" value="Java后端" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
           <mxGeometry x="860" y="128" width="280" height="714" as="geometry" />
