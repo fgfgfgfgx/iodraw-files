@@ -90,8 +90,8 @@
         <mxCell id="FIl52IeEM-LyyXsvo34M-4" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;线性估算浓度ppm&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="311.5" y="381" width="181" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FIl52IeEM-LyyXsvo34M-5" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;线性估算浓度ppm&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="321.5" y="391" width="181" height="60" as="geometry" />
+        <mxCell id="FIl52IeEM-LyyXsvo34M-5" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;返回ppm浮点值&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="311.5" y="480" width="181" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
