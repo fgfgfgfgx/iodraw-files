@@ -298,7 +298,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Z2Rsvb_NbWHKQZPTjnlT" name="第 3 页">
-    <mxGraphModel dx="1137" dy="774" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="830" dy="618" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -315,7 +315,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-04tn83sEI3MN_VV9ycP-11" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;任务自动分配或保洁员手动分配&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-142.62" y="51" width="258.25" height="37" as="geometry" />
+          <mxGeometry x="-143.12" y="51" width="258.25" height="37" as="geometry" />
         </mxCell>
         <mxCell id="-04tn83sEI3MN_VV9ycP-12" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;保洁员扫码签到并校验二维码&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-142.12" y="115" width="258.25" height="37" as="geometry" />
