@@ -68,7 +68,7 @@
           <mxGeometry x="860" y="128" width="280" height="874" as="geometry" />
         </mxCell>
         <mxCell id="qLYBZfKnjfg-X3rskJuE-80" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px; text-wrap: nowrap;&quot;&gt;校验账号密码&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4">
-          <mxGeometry x="46.75" y="36" width="186.5" height="41" as="geometry" />
+          <mxGeometry x="46.75" y="37" width="186.5" height="41" as="geometry" />
         </mxCell>
         <mxCell id="qLYBZfKnjfg-X3rskJuE-83" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px; text-wrap: nowrap;&quot;&gt;生成token&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4">
           <mxGeometry x="46.75" y="97" width="186.5" height="41" as="geometry" />
@@ -88,6 +88,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qLYBZfKnjfg-X3rskJuE-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qLYBZfKnjfg-X3rskJuE-69" target="qLYBZfKnjfg-X3rskJuE-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qLYBZfKnjfg-X3rskJuE-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qLYBZfKnjfg-X3rskJuE-83" target="qLYBZfKnjfg-X3rskJuE-70">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
