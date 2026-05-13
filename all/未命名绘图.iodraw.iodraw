@@ -23,10 +23,10 @@
           <mxGeometry x="46.5" y="166" width="187" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qLYBZfKnjfg-X3rskJuE-50" value="浏览看板或任务" style="fontFamily=宋体;fontSize=18;" vertex="1" parent="2">
-          <mxGeometry x="46.5" y="528" width="187" height="50" as="geometry" />
+          <mxGeometry x="46.5" y="499" width="187" height="28" as="geometry" />
         </mxCell>
         <mxCell id="qLYBZfKnjfg-X3rskJuE-51" value="保洁员扫码签到上传签退" style="fontFamily=宋体;fontSize=18;" vertex="1" parent="2">
-          <mxGeometry x="46.5" y="612" width="187" height="50" as="geometry" />
+          <mxGeometry x="46.5" y="571" width="187" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3" value="微信小程序" style="swimlane;whiteSpace=wrap;swimlaneLine=1;" parent="1" vertex="1">
           <mxGeometry x="444.5" y="128" width="280" height="714" as="geometry" />
