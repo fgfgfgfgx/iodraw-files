@@ -314,9 +314,6 @@
         <mxCell id="-04tn83sEI3MN_VV9ycP-5" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;二维码是否与任务厕位一致&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-145.5" y="175" width="263" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="-04tn83sEI3MN_VV9ycP-6" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;上传图片并签退&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-104" y="318" width="181" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="-04tn83sEI3MN_VV9ycP-7" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;MQTT发布清洁完成JSON&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-104" y="405" width="181" height="60" as="geometry" />
         </mxCell>
@@ -329,8 +326,11 @@
         <mxCell id="-04tn83sEI3MN_VV9ycP-13" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;MQTT载荷cleanSuggest为true自动创建任务&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-143.12" y="-21" width="258.25" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="-04tn83sEI3MN_VV9ycP-14" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;保洁员扫码签到并校验二维码&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-140.75" y="263" width="258.25" height="37" as="geometry" />
+        <mxCell id="-04tn83sEI3MN_VV9ycP-14" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;上传清洁后图片并签退&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-142.62" y="266" width="258.25" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="-04tn83sEI3MN_VV9ycP-15" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;上传清洁后图片并签退&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-132.62" y="276" width="258.25" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
