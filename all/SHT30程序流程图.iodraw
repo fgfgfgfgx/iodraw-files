@@ -4,8 +4,65 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-7bCMP8faOQkQunmsUfj-1" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="312" y="18" width="120" height="80" as="geometry" />
+        <mxCell id="-7bCMP8faOQkQunmsUfj-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-7bCMP8faOQkQunmsUfj-3" target="-7bCMP8faOQkQunmsUfj-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-7bCMP8faOQkQunmsUfj-3" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;开始&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="352" y="10" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-7bCMP8faOQkQunmsUfj-4" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;结束&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="352" y="730" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-7bCMP8faOQkQunmsUfj-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-7bCMP8faOQkQunmsUfj-6" target="-7bCMP8faOQkQunmsUfj-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-7bCMP8faOQkQunmsUfj-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;I2C发送测试命令0x2c26&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="311.5" y="102" width="181" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-7bCMP8faOQkQunmsUfj-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-7bCMP8faOQkQunmsUfj-8" target="-7bCMP8faOQkQunmsUfj-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-7bCMP8faOQkQunmsUfj-8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;延时20ms&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="311.5" y="198" width="181" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-7bCMP8faOQkQunmsUfj-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-7bCMP8faOQkQunmsUfj-10" target="-7bCMP8faOQkQunmsUfj-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-7bCMP8faOQkQunmsUfj-10" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;读取6字节温湿度原始数据&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="311.5" y="296" width="181" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-7bCMP8faOQkQunmsUfj-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-7bCMP8faOQkQunmsUfj-13" target="-7bCMP8faOQkQunmsUfj-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-7bCMP8faOQkQunmsUfj-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-7bCMP8faOQkQunmsUfj-13" target="-7bCMP8faOQkQunmsUfj-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-7bCMP8faOQkQunmsUfj-13" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;温湿度CRC是否与读取到的字节一致&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="233" y="387" width="338" height="111" as="geometry" />
+        </mxCell>
+        <mxCell id="-7bCMP8faOQkQunmsUfj-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-7bCMP8faOQkQunmsUfj-15" target="-7bCMP8faOQkQunmsUfj-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-7bCMP8faOQkQunmsUfj-15" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;换算温度值&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="311.5" y="535" width="181" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-7bCMP8faOQkQunmsUfj-16" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;返回0&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="311.5" y="635" width="181" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-7bCMP8faOQkQunmsUfj-17" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;返回1&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="584" y="535" width="181" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-7bCMP8faOQkQunmsUfj-18" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;否&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="601" y="415" width="36" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="-7bCMP8faOQkQunmsUfj-19" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;是&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="396" y="495" width="36" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="-7bCMP8faOQkQunmsUfj-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-7bCMP8faOQkQunmsUfj-16" target="-7bCMP8faOQkQunmsUfj-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-7bCMP8faOQkQunmsUfj-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-7bCMP8faOQkQunmsUfj-17" target="-7bCMP8faOQkQunmsUfj-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
