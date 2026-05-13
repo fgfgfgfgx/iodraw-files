@@ -376,17 +376,17 @@
         <mxCell id="J-TCosu-G3LVGOZ-184H-2" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;结束&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="373" y="579" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="J-TCosu-G3LVGOZ-184H-3" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;初始化并配置GPIO输入模式&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="J-TCosu-G3LVGOZ-184H-3" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;使能GPIO时钟&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="333" y="94" width="181" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J-TCosu-G3LVGOZ-184H-4" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;初始化并配置GPIO输入模式&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="332" y="185" width="181" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J-TCosu-G3LVGOZ-184H-5" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;初始化并配置GPIO输入模式&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="333" y="285" width="181" height="60" as="geometry" />
+          <mxGeometry x="333" y="272" width="181" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J-TCosu-G3LVGOZ-184H-6" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;初始化并配置GPIO输入模式&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="333" y="378" width="180" height="62" as="geometry" />
+          <mxGeometry x="333" y="360" width="180" height="62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
