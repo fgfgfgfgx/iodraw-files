@@ -288,6 +288,9 @@
         <mxCell id="6luOdyABtPaLJ2XDghCJ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DYJ0DoV_rcPURke5w-7T-4" target="DYJ0DoV_rcPURke5w-7T-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="6luOdyABtPaLJ2XDghCJ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DYJ0DoV_rcPURke5w-7T-4" target="6luOdyABtPaLJ2XDghCJ-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DYJ0DoV_rcPURke5w-7T-4" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;氨气是否仍然超标且厕位空闲&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="251" y="195" width="309" height="76" as="geometry" />
         </mxCell>
@@ -302,6 +305,9 @@
         </mxCell>
         <mxCell id="6luOdyABtPaLJ2XDghCJ-1" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;不锁存保洁任务&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="549" y="306" width="181" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6luOdyABtPaLJ2XDghCJ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DYJ0DoV_rcPURke5w-7T-6" target="DYJ0DoV_rcPURke5w-7T-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
