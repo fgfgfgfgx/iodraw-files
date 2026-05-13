@@ -339,7 +339,7 @@
           <mxGeometry x="267.5" y="224" width="181" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OgqeAoZOlkk6QlSyqL3m-5" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;清零clean_task与锁存与预处理挂起与冷却计时等标志位&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="268" y="372" width="181" height="67" as="geometry" />
+          <mxGeometry x="267.5" y="321" width="181" height="67" as="geometry" />
         </mxCell>
         <mxCell id="OgqeAoZOlkk6QlSyqL3m-6" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;初始化并配置GPIO输入模式&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="268" y="471" width="181" height="60" as="geometry" />
