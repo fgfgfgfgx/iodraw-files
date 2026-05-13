@@ -207,7 +207,7 @@
         <mxCell id="qLYBZfKnjfg-X3rskJuE-101" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px; text-wrap: nowrap;&quot;&gt;云产品流转向订阅Topic推送物模型JSON&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qLYBZfKnjfg-X3rskJuE-42">
           <mxGeometry x="25" y="529.5" width="333" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="qLYBZfKnjfg-X3rskJuE-176" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px; text-wrap: nowrap;&quot;&gt;更新任务状态为已完成&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qLYBZfKnjfg-X3rskJuE-42">
+        <mxCell id="qLYBZfKnjfg-X3rskJuE-176" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px; text-wrap: nowrap;&quot;&gt;接收并云流程下发给嵌入式&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qLYBZfKnjfg-X3rskJuE-42">
           <mxGeometry x="80.94000000000005" y="1198" width="221.13" height="41" as="geometry" />
         </mxCell>
         <mxCell id="qLYBZfKnjfg-X3rskJuE-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qLYBZfKnjfg-X3rskJuE-69" target="qLYBZfKnjfg-X3rskJuE-80">
