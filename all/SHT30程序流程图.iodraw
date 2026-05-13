@@ -153,7 +153,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LGwPJFQYxoYTfUSXumPF-3" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;读取GPIOA_Pin_0电平&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="495" y="300" width="181" height="60" as="geometry" />
+          <mxGeometry x="492.5" y="277" width="181" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WZ1-uNk1k_YHzlApvFoh-1" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;否&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="580" y="234" width="36" height="34" as="geometry" />
@@ -165,7 +165,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eUl56vHZT-oSvssICxti-2" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;得到当前占用状态now&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="311.5" y="402" width="181" height="60" as="geometry" />
+          <mxGeometry x="308.5" y="378" width="181" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eUl56vHZT-oSvssICxti-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eUl56vHZT-oSvssICxti-3" target="eUl56vHZT-oSvssICxti-6">
           <mxGeometry relative="1" as="geometry" />
