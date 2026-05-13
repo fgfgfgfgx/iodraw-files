@@ -320,6 +320,9 @@
         <mxCell id="-04tn83sEI3MN_VV9ycP-6" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;上传图片并签退&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-104" y="318" width="181" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-04tn83sEI3MN_VV9ycP-7" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;MQTT发布清洁完成JSON&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-104" y="405" width="181" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
