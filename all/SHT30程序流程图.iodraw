@@ -128,7 +128,7 @@
         <mxCell id="Gol_C1royj9bVheIkngC-3" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;初始化并配置GPIO输入模式&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="311.5" y="99" width="181" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LGwPJFQYxoYTfUSXumPF-1" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;温湿度CRC是否与读取到的字节一致&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LGwPJFQYxoYTfUSXumPF-1" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;device_index是否为0&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="233" y="197" width="338" height="111" as="geometry" />
         </mxCell>
       </root>
