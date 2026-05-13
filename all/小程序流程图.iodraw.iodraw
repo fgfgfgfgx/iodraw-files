@@ -507,7 +507,7 @@
           <mxGeometry x="-186" y="76" width="304" height="79" as="geometry" />
         </mxCell>
         <mxCell id="uaI4xmBc5Rjut50SlQAM-6" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;查询并渲染全部指标的明细数据&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-294" y="204" width="181" height="60" as="geometry" />
+          <mxGeometry x="-265" y="202" width="181" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
