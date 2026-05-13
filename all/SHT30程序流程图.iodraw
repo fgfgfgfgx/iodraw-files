@@ -221,7 +221,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dSI5-w0soQNSidYspIgn-1" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;开始&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="362" y="292" width="100" height="60" as="geometry" />
+          <mxGeometry x="364" y="33" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dSI5-w0soQNSidYspIgn-2" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;结束&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="364" y="453" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dSI5-w0soQNSidYspIgn-3" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;初始化并配置GPIO输入模式&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="323" y="128" width="181" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
