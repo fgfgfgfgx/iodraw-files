@@ -99,6 +99,9 @@
         <mxCell id="FIl52IeEM-LyyXsvo34M-3" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;根据公式进行电压换算&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="311.5" y="286" width="181" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="wdmKym2pm3voaT2oHlTf-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FIl52IeEM-LyyXsvo34M-4" target="FIl52IeEM-LyyXsvo34M-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FIl52IeEM-LyyXsvo34M-4" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;线性估算浓度ppm&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="311.5" y="381" width="181" height="60" as="geometry" />
         </mxCell>
