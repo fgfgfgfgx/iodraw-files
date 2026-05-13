@@ -161,7 +161,7 @@
           <mxGeometry x="97.44000000000007" y="1185" width="221.13" height="41" as="geometry" />
         </mxCell>
         <mxCell id="qLYBZfKnjfg-X3rskJuE-46" value="" style="ellipse;shape=endState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="3">
-          <mxGeometry x="193" y="1260" width="30" height="30" as="geometry" />
+          <mxGeometry x="193.01" y="1238" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qLYBZfKnjfg-X3rskJuE-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="2" source="qLYBZfKnjfg-X3rskJuE-64" target="qLYBZfKnjfg-X3rskJuE-71">
           <mxGeometry relative="1" as="geometry" />
@@ -206,7 +206,7 @@
           <mxGeometry x="25" y="529.5" width="333" height="44" as="geometry" />
         </mxCell>
         <mxCell id="qLYBZfKnjfg-X3rskJuE-176" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px; text-wrap: nowrap;&quot;&gt;接收并云流程下发嵌入式&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qLYBZfKnjfg-X3rskJuE-42">
-          <mxGeometry x="80.93000000000005" y="1207" width="221.13" height="41" as="geometry" />
+          <mxGeometry x="80.93000000000005" y="1185" width="221.13" height="41" as="geometry" />
         </mxCell>
         <mxCell id="qLYBZfKnjfg-X3rskJuE-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qLYBZfKnjfg-X3rskJuE-69" target="qLYBZfKnjfg-X3rskJuE-80">
           <mxGeometry relative="1" as="geometry" />
