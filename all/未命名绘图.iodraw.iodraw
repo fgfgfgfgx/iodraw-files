@@ -20,7 +20,7 @@
           <mxGeometry x="85" y="572" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qLYBZfKnjfg-X3rskJuE-48" value="输入账号密码确认登录" style="fontFamily=宋体;fontSize=18;" vertex="1" parent="2">
-          <mxGeometry x="85" y="167" width="110" height="50" as="geometry" />
+          <mxGeometry x="85" y="167" width="187" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3" value="微信小程序" style="swimlane;whiteSpace=wrap;swimlaneLine=1;" parent="1" vertex="1">
           <mxGeometry x="444.5" y="128" width="280" height="714" as="geometry" />
