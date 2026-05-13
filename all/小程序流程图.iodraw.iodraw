@@ -391,6 +391,9 @@
         <mxCell id="WJjVqqaMo-OwlhXk2V6I-2" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;根据用户角色和状态筛选任务分页列表&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-116" y="-39" width="181" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="WJjVqqaMo-OwlhXk2V6I-3" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;点击任务卡片进入详情页面&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-116" y="48" width="181" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
