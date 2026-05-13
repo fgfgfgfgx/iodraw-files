@@ -298,7 +298,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Z2Rsvb_NbWHKQZPTjnlT" name="第 3 页">
-    <mxGraphModel dx="1029" dy="720" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1690" dy="1055" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -346,6 +346,12 @@
         </mxCell>
         <mxCell id="-04tn83sEI3MN_VV9ycP-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-04tn83sEI3MN_VV9ycP-15" target="-04tn83sEI3MN_VV9ycP-16">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-04tn83sEI3MN_VV9ycP-24" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;是&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-16" y="227" width="36" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="-04tn83sEI3MN_VV9ycP-26" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;保洁员扫码签到并校验二维码&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-133.13" y="124" width="258.25" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
