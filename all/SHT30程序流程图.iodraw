@@ -274,7 +274,7 @@
           <mxGeometry x="355" y="10" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DYJ0DoV_rcPURke5w-7T-2" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;结束&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="355" y="535" width="100" height="60" as="geometry" />
+          <mxGeometry x="355.5" y="499" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DYJ0DoV_rcPURke5w-7T-3" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;预处理已执行且观察窗口已结束&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="315" y="101" width="181" height="60" as="geometry" />
@@ -287,6 +287,9 @@
         </mxCell>
         <mxCell id="DYJ0DoV_rcPURke5w-7T-6" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;随传感器数据上报云端&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="315" y="409" width="181" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6luOdyABtPaLJ2XDghCJ-1" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;锁存保洁任务并写入厕位号&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="551" y="310" width="181" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
