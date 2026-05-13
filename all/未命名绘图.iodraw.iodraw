@@ -32,16 +32,16 @@
           <mxGeometry x="444.5" y="128" width="415.5" height="874" as="geometry" />
         </mxCell>
         <mxCell id="qLYBZfKnjfg-X3rskJuE-60" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;token校验成功&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="3">
-          <mxGeometry x="121.75" y="222" width="172.5" height="51" as="geometry" />
+          <mxGeometry x="121.25" y="230" width="172.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="qLYBZfKnjfg-X3rskJuE-69" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px; text-wrap: nowrap;&quot;&gt;wx.request登录&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3">
           <mxGeometry x="114.75" y="37" width="186.5" height="41" as="geometry" />
         </mxCell>
         <mxCell id="qLYBZfKnjfg-X3rskJuE-70" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px; text-wrap: nowrap;&quot;&gt;存储token&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3">
-          <mxGeometry x="114.25" y="93" width="186.5" height="41" as="geometry" />
+          <mxGeometry x="114.25" y="101" width="186.5" height="41" as="geometry" />
         </mxCell>
         <mxCell id="qLYBZfKnjfg-X3rskJuE-71" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px; text-wrap: nowrap;&quot;&gt;GET用户信息获取role&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3">
-          <mxGeometry x="114.25" y="156" width="186.5" height="41" as="geometry" />
+          <mxGeometry x="114.25" y="166" width="186.5" height="41" as="geometry" />
         </mxCell>
         <mxCell id="qLYBZfKnjfg-X3rskJuE-72" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px; text-wrap: nowrap;&quot;&gt;加载设备映射&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3">
           <mxGeometry x="114.25" y="298" width="186.5" height="41" as="geometry" />
