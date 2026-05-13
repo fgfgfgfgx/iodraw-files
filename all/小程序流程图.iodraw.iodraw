@@ -315,7 +315,7 @@
           <mxGeometry x="-104" y="140" width="181" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-04tn83sEI3MN_VV9ycP-5" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;二维码是否与任务厕位一致&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-182" y="227" width="338" height="111" as="geometry" />
+          <mxGeometry x="-182" y="227" width="263" height="64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
