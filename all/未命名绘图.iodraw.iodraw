@@ -13,6 +13,9 @@
         <mxCell id="5" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="2" vertex="1">
           <mxGeometry x="125" y="29" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="qLYBZfKnjfg-X3rskJuE-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="2" source="7" target="qLYBZfKnjfg-X3rskJuE-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7" value="打开小程序" style="fontFamily=宋体;fontSize=18;" parent="2" vertex="1">
           <mxGeometry x="85" y="83" width="110" height="50" as="geometry" />
         </mxCell>
@@ -20,7 +23,7 @@
           <mxGeometry x="85" y="572" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qLYBZfKnjfg-X3rskJuE-48" value="输入账号密码确认登录" style="fontFamily=宋体;fontSize=18;" vertex="1" parent="2">
-          <mxGeometry x="85" y="167" width="187" height="50" as="geometry" />
+          <mxGeometry x="46.5" y="166" width="187" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3" value="微信小程序" style="swimlane;whiteSpace=wrap;swimlaneLine=1;" parent="1" vertex="1">
           <mxGeometry x="444.5" y="128" width="280" height="714" as="geometry" />
