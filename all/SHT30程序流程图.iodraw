@@ -186,16 +186,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eUl56vHZT-oSvssICxti-7" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;res置1表示检测到人&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="122" y="687" width="181" height="60" as="geometry" />
+          <mxGeometry x="118" y="654" width="181" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eUl56vHZT-oSvssICxti-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eUl56vHZT-oSvssICxti-8" target="eUl56vHZT-oSvssICxti-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eUl56vHZT-oSvssICxti-8" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;res置0&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="501" y="687" width="181" height="60" as="geometry" />
+          <mxGeometry x="499" y="654" width="181" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eUl56vHZT-oSvssICxti-9" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;否&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="584" y="635" width="36" height="34" as="geometry" />
+          <mxGeometry x="580" y="616" width="36" height="34" as="geometry" />
         </mxCell>
         <mxCell id="eUl56vHZT-oSvssICxti-10" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;是&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="181" y="635" width="36" height="34" as="geometry" />
