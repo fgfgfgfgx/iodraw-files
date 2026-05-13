@@ -506,7 +506,7 @@
         <mxCell id="uaI4xmBc5Rjut50SlQAM-4" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;是否选择查看全部指标的明细表&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-186" y="76" width="304" height="79" as="geometry" />
         </mxCell>
-        <mxCell id="uaI4xmBc5Rjut50SlQAM-5" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;初始化并配置GPIO输入模式&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uaI4xmBc5Rjut50SlQAM-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="167" y="86" width="181" height="60" as="geometry" />
         </mxCell>
       </root>
