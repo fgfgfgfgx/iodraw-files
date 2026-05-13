@@ -379,14 +379,11 @@
         <mxCell id="J-TCosu-G3LVGOZ-184H-4" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;将抽风洒水与指示灯引脚封装为宏，进行统一控制&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="318" y="105" width="211" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="J-TCosu-G3LVGOZ-184H-5" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;初始化并配置GPIO输入模式&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="333" y="272" width="181" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="J-TCosu-G3LVGOZ-184H-6" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;初始化并配置GPIO输入模式&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="333" y="364" width="180" height="62" as="geometry" />
-        </mxCell>
         <mxCell id="J-TCosu-G3LVGOZ-184H-8" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;使能GPIO时钟&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="482" y="174" width="211" height="60" as="geometry" />
+          <mxGeometry x="318" y="198" width="211" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J-TCosu-G3LVGOZ-184H-9" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;使能GPIO时钟&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="328" y="208" width="211" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
