@@ -50,10 +50,10 @@
           <mxGeometry x="53.5" y="239" width="172.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="4" value="Java后端" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
-          <mxGeometry x="724.5" y="128" width="280" height="714" as="geometry" />
+          <mxGeometry x="860" y="128" width="280" height="714" as="geometry" />
         </mxCell>
         <mxCell id="qLYBZfKnjfg-X3rskJuE-42" value="阿里云IoT" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
-          <mxGeometry x="1004.5" y="128" width="280" height="714" as="geometry" />
+          <mxGeometry x="1140" y="128" width="280" height="714" as="geometry" />
         </mxCell>
         <mxCell id="qLYBZfKnjfg-X3rskJuE-46" value="" style="ellipse;shape=endState;fillColor=#000000;strokeColor=#ff0000" vertex="1" parent="qLYBZfKnjfg-X3rskJuE-42">
           <mxGeometry x="130" y="500" width="30" height="30" as="geometry" />
