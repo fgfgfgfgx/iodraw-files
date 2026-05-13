@@ -1,6 +1,6 @@
 <mxfile host="" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="323" dy="191" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1167" dy="690" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,6 +43,9 @@
         <mxCell id="qLYBZfKnjfg-X3rskJuE-53" value="存储token" style="fontFamily=宋体;fontSize=18;" vertex="1" parent="3">
           <mxGeometry x="154.75" y="98" width="110" height="36" as="geometry" />
         </mxCell>
+        <mxCell id="qLYBZfKnjfg-X3rskJuE-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="3" source="qLYBZfKnjfg-X3rskJuE-55" target="qLYBZfKnjfg-X3rskJuE-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qLYBZfKnjfg-X3rskJuE-55" value="GET用户信息获取role" style="fontFamily=宋体;fontSize=18;" vertex="1" parent="3">
           <mxGeometry x="114.25" y="154" width="187" height="42" as="geometry" />
         </mxCell>
@@ -65,6 +68,9 @@
         </mxCell>
         <mxCell id="qLYBZfKnjfg-X3rskJuE-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qLYBZfKnjfg-X3rskJuE-48" target="qLYBZfKnjfg-X3rskJuE-55">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qLYBZfKnjfg-X3rskJuE-62" value="输入账号密码确认登录" style="fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="221" y="292" width="187" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
