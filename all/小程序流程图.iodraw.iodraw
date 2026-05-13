@@ -462,6 +462,9 @@
         <mxCell id="9Pv_rInyyp-y3tdN7b8t-3" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;onLoad校验登录&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-128" y="-26" width="181" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="9Pv_rInyyp-y3tdN7b8t-4" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;获取设备列表、告警信息及任务统计&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-128" y="66" width="181" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
