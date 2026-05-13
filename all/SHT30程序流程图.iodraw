@@ -238,6 +238,9 @@
         <mxCell id="bbBU8sUHyLAYXWdv6_eu-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bbBU8sUHyLAYXWdv6_eu-1" target="bbBU8sUHyLAYXWdv6_eu-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="bbBU8sUHyLAYXWdv6_eu-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bbBU8sUHyLAYXWdv6_eu-1" target="bbBU8sUHyLAYXWdv6_eu-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bbBU8sUHyLAYXWdv6_eu-1" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;氨气是否超标且厕位空闲&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="282" y="218" width="264" height="85" as="geometry" />
         </mxCell>
@@ -245,7 +248,7 @@
           <mxGeometry x="139" y="344" width="237.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bbBU8sUHyLAYXWdv6_eu-3" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;清除预处理挂起标志&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="445" y="339" width="237.5" height="60" as="geometry" />
+          <mxGeometry x="451" y="344" width="237.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bbBU8sUHyLAYXWdv6_eu-8" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;是&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="312" y="297" width="36" height="34" as="geometry" />
