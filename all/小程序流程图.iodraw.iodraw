@@ -306,10 +306,10 @@
           <mxGeometry x="-64" y="-110" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-04tn83sEI3MN_VV9ycP-2" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;MQTT载荷cleanSuggest为true自动创建任务&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-104.5" y="-32" width="220.5" height="60" as="geometry" />
+          <mxGeometry x="-123.75" y="-32" width="220.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-04tn83sEI3MN_VV9ycP-3" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;任务自动分配或保洁员手动分配&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-104" y="53" width="181" height="60" as="geometry" />
+          <mxGeometry x="193" y="59" width="181" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-04tn83sEI3MN_VV9ycP-4" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;保洁员扫码签到并校验二维码&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-104" y="140" width="181" height="60" as="geometry" />
@@ -322,6 +322,9 @@
         </mxCell>
         <mxCell id="-04tn83sEI3MN_VV9ycP-7" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;MQTT发布清洁完成JSON&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-104" y="405" width="181" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-04tn83sEI3MN_VV9ycP-9" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;MQTT载荷cleanSuggest为true自动创建任务&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="-39" width="220.5" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
