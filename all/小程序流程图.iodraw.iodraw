@@ -311,7 +311,7 @@
         <mxCell id="-04tn83sEI3MN_VV9ycP-3" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;任务自动分配或保洁员手动分配&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-104" y="53" width="181" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-04tn83sEI3MN_VV9ycP-4" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;初始化并配置GPIO输入模式&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-04tn83sEI3MN_VV9ycP-4" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;保洁员扫码签到并校验二维码&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-104" y="140" width="181" height="60" as="geometry" />
         </mxCell>
       </root>
