@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2" value="用户" style="swimlane;whiteSpace=wrap;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="164.5" y="128" width="280" height="714" as="geometry" />
+          <mxGeometry x="164.5" y="128" width="593.5" height="714" as="geometry" />
         </mxCell>
         <mxCell id="qLYBZfKnjfg-X3rskJuE-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="2" source="5" target="7">
           <mxGeometry relative="1" as="geometry" />
@@ -27,6 +27,9 @@
         </mxCell>
         <mxCell id="qLYBZfKnjfg-X3rskJuE-51" value="保洁员扫码签到上传签退" style="fontFamily=宋体;fontSize=18;" vertex="1" parent="2">
           <mxGeometry x="38.75" y="571" width="202.5" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="qLYBZfKnjfg-X3rskJuE-60" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;token校验成功&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="2">
+          <mxGeometry x="255.5" y="235" width="338" height="51" as="geometry" />
         </mxCell>
         <mxCell id="3" value="微信小程序" style="swimlane;whiteSpace=wrap;swimlaneLine=1;" parent="1" vertex="1">
           <mxGeometry x="444.5" y="128" width="280" height="714" as="geometry" />
