@@ -397,8 +397,8 @@
         <mxCell id="WJjVqqaMo-OwlhXk2V6I-4" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;按角色与状态渲染操作区&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-116" y="138" width="181" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WJjVqqaMo-OwlhXk2V6I-6" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;device_index是否为0&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="31" y="144" width="338" height="111" as="geometry" />
+        <mxCell id="WJjVqqaMo-OwlhXk2V6I-6" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;是否是管理员且任务是否待分配&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-194.5" y="228" width="338" height="61" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
