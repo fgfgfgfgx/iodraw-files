@@ -46,6 +46,9 @@
         <mxCell id="qLYBZfKnjfg-X3rskJuE-70" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px; text-wrap: nowrap;&quot;&gt;存储token&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3">
           <mxGeometry x="114.75" y="95" width="186.5" height="41" as="geometry" />
         </mxCell>
+        <mxCell id="qLYBZfKnjfg-X3rskJuE-71" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px; text-wrap: nowrap;&quot;&gt;GET用户信息获取role&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3">
+          <mxGeometry x="116.5" y="415" width="186.5" height="41" as="geometry" />
+        </mxCell>
         <mxCell id="4" value="Java后端" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
           <mxGeometry x="860" y="128" width="280" height="714" as="geometry" />
         </mxCell>
