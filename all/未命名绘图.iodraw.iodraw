@@ -19,11 +19,11 @@
         <mxCell id="7" value="打开小程序" style="fontFamily=宋体;fontSize=18;" parent="2" vertex="1">
           <mxGeometry x="85" y="83" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="10" value="post command" style="" parent="2" vertex="1">
-          <mxGeometry x="85" y="572" width="110" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="qLYBZfKnjfg-X3rskJuE-48" value="输入账号密码确认登录" style="fontFamily=宋体;fontSize=18;" vertex="1" parent="2">
           <mxGeometry x="46.5" y="166" width="187" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qLYBZfKnjfg-X3rskJuE-50" value="输入账号密码确认登录" style="fontFamily=宋体;fontSize=18;" vertex="1" parent="2">
+          <mxGeometry x="46.5" y="528" width="187" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3" value="微信小程序" style="swimlane;whiteSpace=wrap;swimlaneLine=1;" parent="1" vertex="1">
           <mxGeometry x="444.5" y="128" width="280" height="714" as="geometry" />
