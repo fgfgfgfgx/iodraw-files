@@ -232,6 +232,9 @@
         <mxCell id="bbBU8sUHyLAYXWdv6_eu-1" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;氨气是否超标且厕位空闲&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="282" y="218" width="264" height="85" as="geometry" />
         </mxCell>
+        <mxCell id="bbBU8sUHyLAYXWdv6_eu-2" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;按优先级处理确认窗口与锁存任务等前置分支&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="137" width="237.5" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
