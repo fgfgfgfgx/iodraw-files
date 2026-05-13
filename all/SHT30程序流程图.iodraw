@@ -450,14 +450,23 @@
         <mxCell id="1rN1Qv9JFmFTJ-XMWNyV-6" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;生成并拼接IoT连接需要的签名字符串&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="312" y="270" width="181" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="1rN1Qv9JFmFTJ-XMWNyV-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1rN1Qv9JFmFTJ-XMWNyV-7" target="1rN1Qv9JFmFTJ-XMWNyV-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1rN1Qv9JFmFTJ-XMWNyV-7" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;利用HMAC_SHA256算法进行密钥转换&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="312" y="362" width="181" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1rN1Qv9JFmFTJ-XMWNyV-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1rN1Qv9JFmFTJ-XMWNyV-8" target="1rN1Qv9JFmFTJ-XMWNyV-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1rN1Qv9JFmFTJ-XMWNyV-8" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;组装MQTT_CONNECT原始载荷&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="311.5" y="456" width="181" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1rN1Qv9JFmFTJ-XMWNyV-9" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;AT建立TCP连接并发送CONNECT等待连接成功&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="312" y="548" width="181" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1rN1Qv9JFmFTJ-XMWNyV-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1rN1Qv9JFmFTJ-XMWNyV-9" target="1rN1Qv9JFmFTJ-XMWNyV-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
