@@ -227,7 +227,7 @@
           <mxGeometry x="364" y="453" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dSI5-w0soQNSidYspIgn-3" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;按优先级处理确认窗口与锁存任务等前置分支&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="323" y="128" width="231" height="60" as="geometry" />
+          <mxGeometry x="300" y="130" width="237.5" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
