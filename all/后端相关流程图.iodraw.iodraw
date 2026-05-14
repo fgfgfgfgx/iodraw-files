@@ -226,6 +226,9 @@
         <mxCell id="wyY6Zr3m3LQIADJmIM9U-4" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;角色是否为保洁员&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-172" y="32" width="240" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="wyY6Zr3m3LQIADJmIM9U-5" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;根据保洁员身份进行任务过滤&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-142" y="106" width="181" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
