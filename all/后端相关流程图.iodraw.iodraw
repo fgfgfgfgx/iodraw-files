@@ -114,8 +114,8 @@
         <mxCell id="7oDI0qKZeYU8yNK0OKm4-16" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;保洁员签到更新状态为进行中&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-148" y="341" width="181" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7oDI0qKZeYU8yNK0OKm4-19" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;保洁员签到更新状态为进行中&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-138" y="351" width="181" height="60" as="geometry" />
+        <mxCell id="7oDI0qKZeYU8yNK0OKm4-19" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;保洁员签退更新状态为已完成并下发IoT&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-148.5" y="432" width="181" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
