@@ -384,7 +384,10 @@
           <mxGeometry x="153" y="271.5" width="161" height="38" as="geometry" />
         </mxCell>
         <mxCell id="conHXMFyhiOcZPuJ_yKm-10" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;更新状态为任务进行中并记录签到时间&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-151.5" y="348" width="181" height="38" as="geometry" />
+          <mxGeometry x="-151.5" y="348" width="181" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="conHXMFyhiOcZPuJ_yKm-11" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;解析对应二维码内容&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-151.5" y="419" width="181" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
