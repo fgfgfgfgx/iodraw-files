@@ -76,7 +76,7 @@
           <mxGeometry x="-108" y="514" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7oDI0qKZeYU8yNK0OKm4-3" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;该厕位是否已经保洁任务&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-227" y="-32" width="338" height="111" as="geometry" />
+          <mxGeometry x="-192.5" y="-32" width="269" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
