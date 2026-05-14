@@ -466,6 +466,12 @@
         <mxCell id="L9PZbbU13nJyriY3tk2x-7" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;更新任务状态为已完成并保存照片与时间&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-153" y="239" width="181" height="43" as="geometry" />
         </mxCell>
+        <mxCell id="L9PZbbU13nJyriY3tk2x-8" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;调用IoT下发清洁完成属性&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-153.5" y="314" width="181" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="L9PZbbU13nJyriY3tk2x-9" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;扫码并调用签退接口&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-123.5" y="87" width="181" height="43" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
