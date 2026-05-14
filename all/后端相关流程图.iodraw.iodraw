@@ -90,11 +90,14 @@
         <mxCell id="7oDI0qKZeYU8yNK0OKm4-4" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;创建任务插入任务表并更新状态为待分配&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-148.5" y="58" width="181" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="7oDI0qKZeYU8yNK0OKm4-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7oDI0qKZeYU8yNK0OKm4-5" target="7oDI0qKZeYU8yNK0OKm4-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7oDI0qKZeYU8yNK0OKm4-5" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;是否有足够保洁员资源可以自动分配&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-227.87" y="140" width="339.75" height="99" as="geometry" />
         </mxCell>
         <mxCell id="7oDI0qKZeYU8yNK0OKm4-6" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;自动分配并更新任务状态为已分配&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-329" y="239" width="181" height="60" as="geometry" />
+          <mxGeometry x="-322" y="236" width="181" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7oDI0qKZeYU8yNK0OKm4-7" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;管理员手动分配并更新任务状态为已分配&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="27" y="239" width="181" height="60" as="geometry" />
