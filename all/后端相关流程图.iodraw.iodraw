@@ -297,8 +297,14 @@
         <mxCell id="Lea9n06Zb9V9TzE9ZdFO-2" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;管理员打开任务详情&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-141.5" y="-28" width="181" height="32" as="geometry" />
         </mxCell>
+        <mxCell id="Lea9n06Zb9V9TzE9ZdFO-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lea9n06Zb9V9TzE9ZdFO-4" target="Lea9n06Zb9V9TzE9ZdFO-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Lea9n06Zb9V9TzE9ZdFO-4" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;请求获取可分配保洁员列表&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-141.5" y="30" width="181" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="Lea9n06Zb9V9TzE9ZdFO-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lea9n06Zb9V9TzE9ZdFO-5" target="Lea9n06Zb9V9TzE9ZdFO-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Lea9n06Zb9V9TzE9ZdFO-5" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;选择保洁员并调用后端接口确认分配&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-141.5" y="102" width="181" height="46" as="geometry" />
