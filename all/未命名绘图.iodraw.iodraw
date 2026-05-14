@@ -52,8 +52,8 @@
         <mxCell id="lD71oWD3SRlwCIMNKbAZ-19" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;是&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="274" y="235" width="36" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="lD71oWD3SRlwCIMNKbAZ-21" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;更新该设备的心跳时间&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160.25" y="281" width="255.75" height="34" as="geometry" />
+        <mxCell id="lD71oWD3SRlwCIMNKbAZ-21" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;返回无法识别设备&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="465" y="271" width="255.75" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
