@@ -519,9 +519,6 @@
         <mxCell id="SxMvR6qkto8Q8M1ZFmc_-1" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;开始&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-91" y="-104" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SxMvR6qkto8Q8M1ZFmc_-2" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;接收小程序请求&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="363" y="-22" width="184" height="35" as="geometry" />
-        </mxCell>
         <mxCell id="SxMvR6qkto8Q8M1ZFmc_-3" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;权限校验是否通过&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-168" y="110" width="254" height="63" as="geometry" />
         </mxCell>
