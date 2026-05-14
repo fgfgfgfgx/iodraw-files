@@ -469,6 +469,9 @@
         <mxCell id="L9PZbbU13nJyriY3tk2x-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="L9PZbbU13nJyriY3tk2x-5" target="L9PZbbU13nJyriY3tk2x-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="L9PZbbU13nJyriY3tk2x-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="L9PZbbU13nJyriY3tk2x-5" target="L9PZbbU13nJyriY3tk2x-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="L9PZbbU13nJyriY3tk2x-5" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;后端校验任务和用户状态是否正常&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-229" y="132" width="335" height="75" as="geometry" />
         </mxCell>
@@ -495,6 +498,12 @@
         </mxCell>
         <mxCell id="L9PZbbU13nJyriY3tk2x-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="L9PZbbU13nJyriY3tk2x-9" target="L9PZbbU13nJyriY3tk2x-10">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L9PZbbU13nJyriY3tk2x-19" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;否&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="104" y="139" width="36" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="L9PZbbU13nJyriY3tk2x-20" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;是&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-67" y="202" width="36" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
