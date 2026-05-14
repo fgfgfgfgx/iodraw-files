@@ -11,7 +11,7 @@
           <mxGeometry x="227" y="530" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lD71oWD3SRlwCIMNKbAZ-3" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;响应POST环境上传接口的请求&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="186.5" y="39" width="181" height="60" as="geometry" />
+          <mxGeometry x="186.5" y="39" width="253.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lD71oWD3SRlwCIMNKbAZ-4" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;按照deviceId解析设备数据&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="187" y="130" width="181" height="60" as="geometry" />
@@ -19,7 +19,7 @@
         <mxCell id="lD71oWD3SRlwCIMNKbAZ-5" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;deviceId是否与已登记的设备一致&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="109" y="218" width="336" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="lD71oWD3SRlwCIMNKbAZ-6" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;初始化并配置GPIO输入模式&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lD71oWD3SRlwCIMNKbAZ-6" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;更新该设备的心跳时间&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="187" y="313" width="181" height="60" as="geometry" />
         </mxCell>
       </root>
