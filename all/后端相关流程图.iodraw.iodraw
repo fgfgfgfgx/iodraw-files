@@ -549,14 +549,26 @@
         <mxCell id="SxMvR6qkto8Q8M1ZFmc_-7" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;解析入参获取对话模式&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-143.5" y="201" width="205" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="SxMvR6qkto8Q8M1ZFmc_-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SxMvR6qkto8Q8M1ZFmc_-8" target="SxMvR6qkto8Q8M1ZFmc_-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SxMvR6qkto8Q8M1ZFmc_-8" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;根据模式组装prompt&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-143.5" y="264" width="205" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="SxMvR6qkto8Q8M1ZFmc_-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SxMvR6qkto8Q8M1ZFmc_-9" target="SxMvR6qkto8Q8M1ZFmc_-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SxMvR6qkto8Q8M1ZFmc_-9" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;构建包含model和message的JSON请求体&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-143.5" y="327" width="205" height="46" as="geometry" />
         </mxCell>
+        <mxCell id="SxMvR6qkto8Q8M1ZFmc_-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SxMvR6qkto8Q8M1ZFmc_-11" target="SxMvR6qkto8Q8M1ZFmc_-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SxMvR6qkto8Q8M1ZFmc_-11" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;调用外部大模型接口并接收返回结果&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-143.5" y="401" width="205" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="SxMvR6qkto8Q8M1ZFmc_-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SxMvR6qkto8Q8M1ZFmc_-12" target="SxMvR6qkto8Q8M1ZFmc_-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SxMvR6qkto8Q8M1ZFmc_-12" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;利用FastJSON解析响应&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-143.5" y="475" width="205" height="31" as="geometry" />
