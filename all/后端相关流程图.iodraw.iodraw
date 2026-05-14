@@ -179,8 +179,11 @@
         <mxCell id="kgM7GJwMzeJ1SeEwffQv-5" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;按时间戳拼接文件名&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-27.5" y="105" width="181" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="kgM7GJwMzeJ1SeEwffQv-6" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;接收清洁后照片文件&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kgM7GJwMzeJ1SeEwffQv-6" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;写入本地uploads目录&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-27" y="163" width="181" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="kgM7GJwMzeJ1SeEwffQv-7" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;写入本地uploads目录&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-24" y="225" width="181" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
