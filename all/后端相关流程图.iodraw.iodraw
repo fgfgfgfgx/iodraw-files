@@ -111,11 +111,14 @@
         <mxCell id="7oDI0qKZeYU8yNK0OKm4-7" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;管理员手动分配并更新任务状态为已分配&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="42" y="239" width="181" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="7oDI0qKZeYU8yNK0OKm4-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7oDI0qKZeYU8yNK0OKm4-16" target="7oDI0qKZeYU8yNK0OKm4-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7oDI0qKZeYU8yNK0OKm4-16" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;保洁员签到更新状态为进行中&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-148" y="341" width="181" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7oDI0qKZeYU8yNK0OKm4-19" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;保洁员签退更新状态为已完成并下发IoT&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-148.5" y="432" width="181" height="60" as="geometry" />
+          <mxGeometry x="-148" y="426" width="181" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
