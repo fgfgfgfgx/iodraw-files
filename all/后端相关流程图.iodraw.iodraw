@@ -300,8 +300,8 @@
         <mxCell id="Lea9n06Zb9V9TzE9ZdFO-6" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;任务状态是否未待分配&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-182" y="174" width="262" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="Lea9n06Zb9V9TzE9ZdFO-7" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;管理员打开任务详情&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-131.5" y="-18" width="181" height="32" as="geometry" />
+        <mxCell id="Lea9n06Zb9V9TzE9ZdFO-7" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;更新任务分配人员、状态与分配时间&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-141.5" y="251" width="181" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
