@@ -177,10 +177,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kgM7GJwMzeJ1SeEwffQv-2" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;接收清洁后照片文件&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-27" y="-29" width="181" height="37" as="geometry" />
+          <mxGeometry x="-27.5" y="-29" width="181" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="kgM7GJwMzeJ1SeEwffQv-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kgM7GJwMzeJ1SeEwffQv-4" target="kgM7GJwMzeJ1SeEwffQv-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kgM7GJwMzeJ1SeEwffQv-4" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;根据指派保洁员与厕位号生成一级目录&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-27.5" y="33" width="181" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="kgM7GJwMzeJ1SeEwffQv-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kgM7GJwMzeJ1SeEwffQv-5" target="kgM7GJwMzeJ1SeEwffQv-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kgM7GJwMzeJ1SeEwffQv-5" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;按时间戳拼接文件名&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-27.5" y="105" width="181" height="33" as="geometry" />
