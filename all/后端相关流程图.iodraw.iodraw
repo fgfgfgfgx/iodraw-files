@@ -65,7 +65,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CPXMbt27WrEThN3gOFT-" name="第 2 页">
-    <mxGraphModel dx="1475" dy="918" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1690" dy="1021" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -119,9 +119,6 @@
         </mxCell>
         <mxCell id="7oDI0qKZeYU8yNK0OKm4-19" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;保洁员签退更新状态为已完成并下发IoT&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-148" y="426" width="181" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="7oDI0qKZeYU8yNK0OKm4-21" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;device_index是否为0&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-226" y="506" width="338" height="111" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
