@@ -210,7 +210,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="r4fT_G3s2H1jMt-gvi_b" name="第 4 页">
-    <mxGraphModel dx="1690" dy="1021" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1137" dy="755" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -223,6 +223,9 @@
         <mxCell id="wyY6Zr3m3LQIADJmIM9U-3" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;读取当前用户与角色&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-150.5" y="-34" width="197" height="38" as="geometry" />
         </mxCell>
+        <mxCell id="wyY6Zr3m3LQIADJmIM9U-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wyY6Zr3m3LQIADJmIM9U-4" target="wyY6Zr3m3LQIADJmIM9U-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wyY6Zr3m3LQIADJmIM9U-4" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;角色是否为保洁员&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-172" y="26" width="240" height="45" as="geometry" />
         </mxCell>
@@ -234,6 +237,9 @@
         </mxCell>
         <mxCell id="wyY6Zr3m3LQIADJmIM9U-8" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;统计各个类别的任务并封装JSON返回&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-153.5" y="258" width="203" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="wyY6Zr3m3LQIADJmIM9U-10" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;是&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-57" y="66" width="36" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
