@@ -522,8 +522,8 @@
         <mxCell id="SxMvR6qkto8Q8M1ZFmc_-2" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;接收小程序请求&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-113" y="-15" width="144" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="SxMvR6qkto8Q8M1ZFmc_-3" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;device_index是否为0&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-210" y="49" width="338" height="63" as="geometry" />
+        <mxCell id="SxMvR6qkto8Q8M1ZFmc_-3" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;解析Header获取Token&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-158" y="49" width="254" height="63" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
