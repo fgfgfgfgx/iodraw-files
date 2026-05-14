@@ -218,7 +218,7 @@
           <mxGeometry x="-102" y="-115" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wyY6Zr3m3LQIADJmIM9U-2" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;结束&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-102" y="393" width="100" height="60" as="geometry" />
+          <mxGeometry x="-102" y="332" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wyY6Zr3m3LQIADJmIM9U-3" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;读取当前用户与角色&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-150.5" y="-34" width="197" height="38" as="geometry" />
@@ -232,7 +232,7 @@
         <mxCell id="wyY6Zr3m3LQIADJmIM9U-6" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Mapper动态拼接查询条件&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-153.5" y="188" width="203" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="wyY6Zr3m3LQIADJmIM9U-8" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Mapper动态拼接查询条件&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wyY6Zr3m3LQIADJmIM9U-8" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;统计各个类别的任务并封装JSON返回&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-153.5" y="258" width="203" height="41" as="geometry" />
         </mxCell>
       </root>
