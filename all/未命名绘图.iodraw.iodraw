@@ -17,7 +17,10 @@
           <mxGeometry x="187" y="130" width="181" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lD71oWD3SRlwCIMNKbAZ-5" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;deviceId是否与已登记的设备一致&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="108" y="210" width="338" height="68" as="geometry" />
+          <mxGeometry x="109" y="218" width="336" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="lD71oWD3SRlwCIMNKbAZ-6" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;初始化并配置GPIO输入模式&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="187" y="313" width="181" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
