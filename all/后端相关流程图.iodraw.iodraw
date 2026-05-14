@@ -150,7 +150,7 @@
         <mxCell id="ReBegwSFH3MLs233GrZM-8" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;是&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-227.87" y="546" width="36" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="ReBegwSFH3MLs233GrZM-12" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;更新任务状态为已取消&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ReBegwSFH3MLs233GrZM-12" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;抛出不可取消异常&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-16" y="595" width="189.49" height="43" as="geometry" />
         </mxCell>
         <mxCell id="ReBegwSFH3MLs233GrZM-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ReBegwSFH3MLs233GrZM-2" target="7oDI0qKZeYU8yNK0OKm4-2">
@@ -171,7 +171,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0Babh51QtofEmEx7pgZS-5" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;是&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="254" y="355" width="36" height="34" as="geometry" />
+          <mxGeometry x="167" y="-34" width="36" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
