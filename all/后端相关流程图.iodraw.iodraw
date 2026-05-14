@@ -537,6 +537,9 @@
         <mxCell id="SxMvR6qkto8Q8M1ZFmc_-9" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;构建包含model和message的JSON请求体&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-143.5" y="327" width="205" height="46" as="geometry" />
         </mxCell>
+        <mxCell id="SxMvR6qkto8Q8M1ZFmc_-11" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;构建包含model和message的JSON请求体&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-133.5" y="337" width="205" height="46" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
