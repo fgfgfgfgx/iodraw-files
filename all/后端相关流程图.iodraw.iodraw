@@ -135,8 +135,8 @@
         <mxCell id="ReBegwSFH3MLs233GrZM-2" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;更新任务状态为已取消&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-152.75" y="598" width="189.49" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="ReBegwSFH3MLs233GrZM-3" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;更新任务状态为已取消&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="94" y="517" width="189.49" height="43" as="geometry" />
+        <mxCell id="ReBegwSFH3MLs233GrZM-3" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;抛出不可取消异常&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="94" y="529" width="150" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
