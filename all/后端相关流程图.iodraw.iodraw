@@ -371,8 +371,8 @@
         <mxCell id="conHXMFyhiOcZPuJ_yKm-5" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;二维码与任务对应厕位是否一致&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-229" y="104" width="338" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="conHXMFyhiOcZPuJ_yKm-6" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;解析对应二维码内容&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-151.5" y="190" width="181" height="38" as="geometry" />
+        <mxCell id="conHXMFyhiOcZPuJ_yKm-6" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;调用后端接口传入任务编号&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-151.5" y="190" width="181" height="43" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
