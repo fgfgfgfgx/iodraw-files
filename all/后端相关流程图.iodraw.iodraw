@@ -549,7 +549,7 @@
         <mxCell id="SxMvR6qkto8Q8M1ZFmc_-14" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;结束&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-91" y="605" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SxMvR6qkto8Q8M1ZFmc_-15" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;根据模式组装prompt&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SxMvR6qkto8Q8M1ZFmc_-15" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;封装错误响应提示需登录&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="126" y="124" width="205" height="35" as="geometry" />
         </mxCell>
       </root>
