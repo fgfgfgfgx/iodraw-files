@@ -520,13 +520,16 @@
           <mxGeometry x="-91" y="-104" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SxMvR6qkto8Q8M1ZFmc_-2" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;接收小程序请求&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-113" y="-15" width="144" height="35" as="geometry" />
+          <mxGeometry x="363" y="-22" width="184" height="35" as="geometry" />
         </mxCell>
         <mxCell id="SxMvR6qkto8Q8M1ZFmc_-3" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;解析Header获取Token&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="262" y="67" width="254" height="63" as="geometry" />
         </mxCell>
         <mxCell id="SxMvR6qkto8Q8M1ZFmc_-4" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;解析Header获取Token&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-143.5" y="49" width="205" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="SxMvR6qkto8Q8M1ZFmc_-5" value="&lt;span style=&quot;font-family: 宋体; font-size: 18px;&quot;&gt;接收小程序请求&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-143.5" y="-10" width="205" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
