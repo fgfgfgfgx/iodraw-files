@@ -142,13 +142,16 @@
           <mxGeometry x="-290" y="595" width="189.49" height="43" as="geometry" />
         </mxCell>
         <mxCell id="ReBegwSFH3MLs233GrZM-3" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;抛出不可取消异常&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="95" y="523" width="150" height="31" as="geometry" />
+          <mxGeometry x="154" y="668" width="150" height="31" as="geometry" />
         </mxCell>
         <mxCell id="ReBegwSFH3MLs233GrZM-6" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;否&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="125" y="579" width="36" height="34" as="geometry" />
+          <mxGeometry x="186" y="508" width="36" height="34" as="geometry" />
         </mxCell>
         <mxCell id="ReBegwSFH3MLs233GrZM-8" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;是&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-250" y="561" width="36" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="ReBegwSFH3MLs233GrZM-12" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;更新任务状态为已取消&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="59" y="595" width="189.49" height="43" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
