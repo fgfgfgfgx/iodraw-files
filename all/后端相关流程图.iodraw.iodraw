@@ -460,8 +460,14 @@
         <mxCell id="L9PZbbU13nJyriY3tk2x-2" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;上传清洁后照片并获得照片URL地址&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-153.5" y="-18" width="181" height="43" as="geometry" />
         </mxCell>
+        <mxCell id="L9PZbbU13nJyriY3tk2x-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="L9PZbbU13nJyriY3tk2x-4" target="L9PZbbU13nJyriY3tk2x-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="L9PZbbU13nJyriY3tk2x-4" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;扫码并调用签退接口&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-153.5" y="57" width="181" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="L9PZbbU13nJyriY3tk2x-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="L9PZbbU13nJyriY3tk2x-5" target="L9PZbbU13nJyriY3tk2x-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="L9PZbbU13nJyriY3tk2x-5" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;后端校验任务和用户状态是否正常&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-229" y="132" width="335" height="75" as="geometry" />
@@ -469,8 +475,11 @@
         <mxCell id="L9PZbbU13nJyriY3tk2x-6" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;返回失败&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="155" y="153.5" width="124" height="32" as="geometry" />
         </mxCell>
+        <mxCell id="L9PZbbU13nJyriY3tk2x-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="L9PZbbU13nJyriY3tk2x-7" target="L9PZbbU13nJyriY3tk2x-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="L9PZbbU13nJyriY3tk2x-7" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;更新任务状态为已完成并保存照片与时间&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-153" y="239" width="181" height="43" as="geometry" />
+          <mxGeometry x="-152" y="239" width="181" height="43" as="geometry" />
         </mxCell>
         <mxCell id="L9PZbbU13nJyriY3tk2x-8" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;调用IoT下发清洁完成属性&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-153.5" y="314" width="181" height="43" as="geometry" />
