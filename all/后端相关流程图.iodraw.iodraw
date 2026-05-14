@@ -135,6 +135,9 @@
         <mxCell id="ReBegwSFH3MLs233GrZM-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ReBegwSFH3MLs233GrZM-1" target="ReBegwSFH3MLs233GrZM-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ReBegwSFH3MLs233GrZM-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ReBegwSFH3MLs233GrZM-1" target="ReBegwSFH3MLs233GrZM-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ReBegwSFH3MLs233GrZM-1" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;该任务是否允许取消&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-176.09" y="511" width="237.19" height="55" as="geometry" />
         </mxCell>
@@ -151,7 +154,7 @@
           <mxGeometry x="-250" y="561" width="36" height="34" as="geometry" />
         </mxCell>
         <mxCell id="ReBegwSFH3MLs233GrZM-12" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;更新任务状态为已取消&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="59" y="595" width="189.49" height="43" as="geometry" />
+          <mxGeometry x="-16" y="595" width="189.49" height="43" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
