@@ -120,6 +120,9 @@
         <mxCell id="7oDI0qKZeYU8yNK0OKm4-16" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;保洁员签到更新状态为进行中&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-148" y="341" width="181" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ReBegwSFH3MLs233GrZM-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7oDI0qKZeYU8yNK0OKm4-19" target="ReBegwSFH3MLs233GrZM-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7oDI0qKZeYU8yNK0OKm4-19" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;保洁员签退更新状态为已完成并下发IoT&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-148" y="426" width="181" height="60" as="geometry" />
         </mxCell>
@@ -129,6 +132,9 @@
         <mxCell id="7oDI0qKZeYU8yNK0OKm4-23" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;否&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="125" y="194" width="36" height="34" as="geometry" />
         </mxCell>
+        <mxCell id="ReBegwSFH3MLs233GrZM-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ReBegwSFH3MLs233GrZM-1" target="ReBegwSFH3MLs233GrZM-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ReBegwSFH3MLs233GrZM-1" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;该任务是否允许取消&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-176.09" y="511" width="237.19" height="55" as="geometry" />
         </mxCell>
@@ -137,6 +143,9 @@
         </mxCell>
         <mxCell id="ReBegwSFH3MLs233GrZM-3" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;抛出不可取消异常&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="95" y="523" width="150" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="ReBegwSFH3MLs233GrZM-6" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;否&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="56" y="511" width="36" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
