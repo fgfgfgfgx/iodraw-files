@@ -461,7 +461,10 @@
           <mxGeometry x="-229" y="132" width="335" height="75" as="geometry" />
         </mxCell>
         <mxCell id="L9PZbbU13nJyriY3tk2x-6" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;返回失败&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="155" y="153.5" width="88" height="32" as="geometry" />
+          <mxGeometry x="155" y="153.5" width="124" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="L9PZbbU13nJyriY3tk2x-7" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;扫码并调用签退接口&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-143.5" y="67" width="181" height="43" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
