@@ -85,7 +85,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7oDI0qKZeYU8yNK0OKm4-3" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;该厕位是否已经存在未完成的保洁任务&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-192.5" y="-32" width="398.5" height="65" as="geometry" />
+          <mxGeometry x="-280" y="-31" width="421.25" height="65" as="geometry" />
         </mxCell>
         <mxCell id="7oDI0qKZeYU8yNK0OKm4-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7oDI0qKZeYU8yNK0OKm4-4" target="7oDI0qKZeYU8yNK0OKm4-5">
           <mxGeometry relative="1" as="geometry" />
