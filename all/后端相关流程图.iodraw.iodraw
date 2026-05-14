@@ -309,8 +309,14 @@
         <mxCell id="Lea9n06Zb9V9TzE9ZdFO-5" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;选择保洁员并调用后端接口确认分配&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-141.5" y="102" width="181" height="46" as="geometry" />
         </mxCell>
+        <mxCell id="Lea9n06Zb9V9TzE9ZdFO-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lea9n06Zb9V9TzE9ZdFO-6" target="Lea9n06Zb9V9TzE9ZdFO-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Lea9n06Zb9V9TzE9ZdFO-6" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;任务状态是否未待分配&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-182" y="174" width="262" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="Lea9n06Zb9V9TzE9ZdFO-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lea9n06Zb9V9TzE9ZdFO-7" target="Lea9n06Zb9V9TzE9ZdFO-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Lea9n06Zb9V9TzE9ZdFO-7" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;更新任务分配人员、状态与分配时间&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-141.5" y="251" width="181" height="48" as="geometry" />
@@ -323,6 +329,9 @@
         </mxCell>
         <mxCell id="Lea9n06Zb9V9TzE9ZdFO-10" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;结束&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-101" y="441" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lea9n06Zb9V9TzE9ZdFO-16" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;是&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-56" y="220" width="36" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
