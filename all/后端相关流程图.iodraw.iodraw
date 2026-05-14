@@ -227,10 +227,13 @@
           <mxGeometry x="-172" y="26" width="240" height="45" as="geometry" />
         </mxCell>
         <mxCell id="wyY6Zr3m3LQIADJmIM9U-5" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;根据保洁员身份进行任务过滤&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-142" y="106" width="200" height="60" as="geometry" />
+          <mxGeometry x="-152" y="96" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wyY6Zr3m3LQIADJmIM9U-6" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Mapper动态拼接查询条件&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-142" y="201" width="203" height="41" as="geometry" />
+          <mxGeometry x="-153.5" y="188" width="203" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="wyY6Zr3m3LQIADJmIM9U-8" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Mapper动态拼接查询条件&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-153.5" y="258" width="203" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
