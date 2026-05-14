@@ -81,6 +81,9 @@
         <mxCell id="7oDI0qKZeYU8yNK0OKm4-4" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;创建任务插入任务表并更新状态为待分配&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-148" y="58" width="181" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="7oDI0qKZeYU8yNK0OKm4-5" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;该厕位是否已经保洁任务&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-192.5" y="144" width="269" height="65" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
