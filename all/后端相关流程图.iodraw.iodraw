@@ -132,8 +132,8 @@
         <mxCell id="ReBegwSFH3MLs233GrZM-1" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;该任务是否允许取消&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-176.09" y="511" width="237.19" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="ReBegwSFH3MLs233GrZM-2" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;保洁员签退更新状态为已完成并下发IoT&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-148.49" y="588" width="181" height="60" as="geometry" />
+        <mxCell id="ReBegwSFH3MLs233GrZM-2" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;更新任务状态为已取消&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-148.49" y="588" width="189.49" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
