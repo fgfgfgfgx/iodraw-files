@@ -133,7 +133,10 @@
           <mxGeometry x="-176.09" y="511" width="237.19" height="55" as="geometry" />
         </mxCell>
         <mxCell id="ReBegwSFH3MLs233GrZM-2" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;更新任务状态为已取消&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-148.49" y="588" width="189.49" height="60" as="geometry" />
+          <mxGeometry x="-152.75" y="598" width="189.49" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="ReBegwSFH3MLs233GrZM-3" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;更新任务状态为已取消&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-142.75" y="608" width="189.49" height="43" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
